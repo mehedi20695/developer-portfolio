@@ -13,10 +13,21 @@
     font-size: 20px;
     border: 0;
     pad: 18px 35px;
-    width: 150px;
+    width: 200px;
     height: 64px;
     background: #FD6E0A;
     border-radius: 5px
+}
+.contact-button {
+    color: #FD6E0A;
+    border-radius: 5px;
+    pad: 18px 35px;
+    font-weight: 700;
+    font-size: 20px;
+    border-color: #FD6E0A;
+    width: 160px;
+    height: 64px;
+    margin-left: ;
 }
 
 /* header and navigation styles */
@@ -76,16 +87,7 @@ nav li {
     margin-bottom: 30px;
 }
 
-.contact-button {
-    color: #FD6E0A;
-    border-radius: 5px;
-    height: 64px;
-    pad: 18px 35px;
-    font-weight: 700;
-    font-size: 20px;
-    border-color: #FD6E0A;
-    width: 140px;
-}
+
 
 /* main section styles */
 main {
